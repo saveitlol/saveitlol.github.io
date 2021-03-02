@@ -2,17 +2,17 @@
   "basics": {
     "name": "Ahmad Zaky",
     "label": "Student",
-    "picture": "https://saveitlol.github.io/images/worker.png",
+    "picture": "https://saveitlol.github.io/template/images/worker.png",
     "email": "ahmadzakyashshiddieqy@gmail.com",
-    "phone": "808-333-4444",
+    "phone": "085",
     "website": "https://saveitlol.github.io",
     "summary": "I am studying for a software engineering at the Vocational high school Raden Umar Said. I expect to graduate in 2021.",
     "location": {
       "address": "",
-      "postalCode": "59463",
+      "postalCode": "5642",
       "city": "Jepara",
-      "countryCode": "62",
-      "region": "Indonesia"
+      "countryCode": "ID",
+      "region": "Jawatengah"
     },
     "profiles": [
       {
@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "ahmad zaky",
+        "username": "ahmadzaky",
         "url": ""
       },
       {
