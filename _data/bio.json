@@ -78,9 +78,9 @@
   "education": [
     {
       "institution": "SMK Raden Umar Said",
-      "area": "Software engineering (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Software engineering",
+      "studyType": "",
+      "startDate": "2018",
       "endDate": "Present",
       "gpa": "",
       "courses": [
