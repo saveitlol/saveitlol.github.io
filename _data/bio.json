@@ -82,17 +82,13 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "gpa": ""
     }
     {
       "institution": "SMP IT Al-Islam",
       "startDate": "2014",
       "endDate": "2017",
-      "gpa": "",
-      "courses": [
-      ]
+      "gpa": ""
     }
   ],
   "volunteer": [
@@ -102,9 +98,7 @@
       "position": "Web Developer",
       "startDate": "2020",
       "endDate": "Present",
-      "summary": "create a streaming website",
-      "highlights": [
-      ]
+      "summary": "create a streaming website"
     },
   
   "references": [
