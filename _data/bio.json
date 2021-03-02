@@ -82,13 +82,17 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": ""
+      "gpa": "",
+      "courses": [
+      ]
     }
     {
       "institution": "SMP IT Al-Islam",
       "startDate": "2014",
       "endDate": "2017",
-      "gpa": ""
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "volunteer": [
