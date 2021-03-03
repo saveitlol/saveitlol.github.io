@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images
 title: Unknow
 permalink: projects/unknow
 # All dates must be YYYY-MM-DD format!
