@@ -12,28 +12,28 @@
       "postalCode": "5642",
       "city": "Jepara",
       "countryCode": "ID",  
-      "region": "Jawatengah"
+      "region": "Jawa tengah"
     },
     "profiles": [
       {
         "network": "github",
         "username": "saveitlol",
-        "url": "http://github.com/saveitlol"
+        "url": "https://github.com/saveitlol"
       },
       {
-        "network": "linkedin",
+        "network": "telegram",
         "username": "ahmadzaky",
-        "url": ""
+        "url": "hhttps://t.me/saveitlol"
       },
       {
         "network": "twitter",
-        "username": "saveitlol",
-        "url": "http://twitter.com/"
+        "username": "skygge",
+        "url": "https://twitter.com/saveitlol"
       },
       {
         "network": "instagram",
         "username": "skygge___",
-        "url": "http://instagram.com/skygge___"
+        "url": "https://instagram.com/skygge___"
       }
     ]
   },
